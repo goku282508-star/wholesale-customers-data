@@ -1,1 +1,7 @@
-
+Requirements:
+Python 3.x
+NumPy
+Pandas
+Matplotlib or Seaborn
+Scikit-learn, if machine-learning analysis is included
+Jupyter Notebook, if notebooks are used
