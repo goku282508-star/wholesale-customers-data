@@ -1,6 +1,10 @@
-Add a .gitignore file at the repository root:
-
-gitignore
-# Ignore all files and folders named "Git Ignore"
-Git Ignore/
-Git Ignore
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
